@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 void FuerzaYsuperficie (float n1,float n2);
- int main ()
+ int main ()//Idem ejercicio anterior.
  {
      float n1,n2;
      FuerzaYsuperficie( n1, n2);

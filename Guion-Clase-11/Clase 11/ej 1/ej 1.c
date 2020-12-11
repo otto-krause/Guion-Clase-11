@@ -3,9 +3,10 @@
 
 void yqc();
 int total(int num1, int num2);
-  int main( ) {
+  void main( ) //función de tipo void.
+  {
     yqc();
-    return 0;
+    //return 0;
   }
 void yqc()
 {
